@@ -7,6 +7,7 @@ Software developer, and Designer.
 I have been learning coding since 2018, and I am passionate about FrontEnd development. My coding languages: JavaScript, React, and python.
 
 * 🌍  I'm based in Jeddah, Saudi Arabia.
+* ✉️  You can contact me at [ibr.s.ahmat@gmail.com](mailto:ibr.s.ahmat@gmail.com)
 * 🧠  I'm learning Advance JavaScript
 * 🤝  I'm open to collaborating on React, and JavaScript projects.
 * ⚡  I'm an athlete (Track, and Marathon), and football (soccer) player.
