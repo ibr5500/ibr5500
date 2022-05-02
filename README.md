@@ -1,6 +1,3 @@
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Ibrahim Ahmat
 ==============================
 
@@ -9,10 +6,10 @@ Software developer, and Designer.
 
 I have been learning coding since 2018, and I am passionate about FrontEnd development. My coding languages: JavaScript, React, and python.
 
-* 🌍  I'm based in Jeddah, Saudi Arabia.
-* 🧠  I'm learning Advance JavaScript
-* 🤝  I'm open to collaborating on React, and JavaScript projects.
-* ⚡  I'm an athlete (Track, and Marathon), and football (soccer) player.
+* 🌍  I'm based in Jeddah, Saudi Arabia.
+* 🧠  I'm learning Advance JavaScript
+* 🤝  I'm open to collaborating on React, and JavaScript projects.
+* ⚡  I'm an athlete (Track, and Marathon), and football (soccer) player.
 
 ### Skills
 
@@ -28,6 +25,7 @@ I have been learning coding since 2018, and I am passionate about FrontEnd devel
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/ibr55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ibr5500/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibr.55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ibrahim-ahmat-b5513b1a6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ibr.55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ibr_ahmat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -36,12 +34,11 @@ I have been learning coding since 2018, and I am passionate about FrontEnd devel
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ibr5500/"><img src="https://github-readme-stats.vercel.app/api?username=ibr5500/&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibr5500/'s GitHub stats" /></a>
+<a href="http://www.github.com/ibr5500/"><img src="https://github-readme-stats.vercel.app/api?username=ibr5500/&show_icons=true&hide=issues,&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="ibr5500/'s GitHub stats" /></a>
 
-<a href="https://github.com/ibr5500/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibr5500/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ibr5500/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibr5500/&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ibr5500/To-Do-List" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ibr5500/&repo=To-Do-List&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ibr5500//To-Do-List/ " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ibr5500/&repo=To-Do-List/ &title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
