@@ -11,6 +11,10 @@ I have been learning coding since 2018, and I am passionate about FrontEnd devel
 * 🤝  I'm open to collaborating on React, and JavaScript projects.
 * ⚡  I'm an athlete (Track, and Marathon), and football (soccer) player.
 
+### Badges
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibr5500&theme=tokyonight&row=1&column=6" alt="Ibrahim Ahmat" /></a> </p>
+
 ### Skills
 
 <p align="left">
@@ -29,7 +33,6 @@ I have been learning coding since 2018, and I am passionate about FrontEnd devel
 
 <p align="left"> <a href="https://www.codepen.io/ibr55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ibr5500/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibr.55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ibrahim-ahmat-b5513b1a6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ibr.55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ibr_ahmat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <p align="center>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibr5500&show_icons=true&locale=en&layout=compact" alt="Ibrrahim Ahmat" />
