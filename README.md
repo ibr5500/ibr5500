@@ -4,7 +4,7 @@ Hi 👋 My name is Ibrahim Ahmat
 Software developer, and Designer.
 ---------------------------------
 
-I have been learning coding since 2018, and I am passionate about FrontEnd development. My coding languages: JavaScript, React, and python.
+I have been learning coding since 2018, and I am passionate about FrontEnd development.
 
 * 🌍  I'm based in Jeddah, Saudi Arabia.
 * 🧠  I'm learning Advance JavaScript
