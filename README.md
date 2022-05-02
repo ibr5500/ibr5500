@@ -33,9 +33,9 @@ I have been learning coding since 2018, and I am passionate about FrontEnd devel
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibr5500&show_icons=true&locale=en&layout=compact" alt="Ibrrahim Ahmat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibr5500&show_icons=true&locale=en" alt="Ibrrahim Ahmat" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ibr5500&show_icons=true&locale=en" alt="Ibrrahim Ahmat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibr5500&" alt="Ibrrahim Ahmat" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ibr5500&" alt="Ibrrahim Ahmat" /></p>
 
 
 <br /><br /><br /><br /><br /><br /><br />
