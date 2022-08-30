@@ -12,10 +12,6 @@ I have been learning coding since 2018, and I am passionate about FrontEnd devel
 * 🤝  I'm open to collaborating on React, and JavaScript projects.
 * ⚡  I'm an athlete (Track, and Marathon), and football (soccer) player.
 
-### Badges
-
-<div align="left"> <a style="margin: 0 5px 0 0;" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibr5500&theme=tokyonight&row=1&column=6" alt="Ibrahim Ahmat" /></a> </div>
-
 ### Skills
 
 <div align="left">
