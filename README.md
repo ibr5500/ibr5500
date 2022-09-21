@@ -1,10 +1,10 @@
 Hi 👋 My name is Ibrahim Ahmat
 ==============================
 
-Software developer, and Designer.
+Full Stack developer
 ---------------------------------
 
-I have been learning coding since 2018, and I am passionate about FrontEnd development. My coding languages: JavaScript, React, and python.
+I am passionate about rails development. My coding languages: JavaScript, React, ruby, ruby on rails, and python.
 
 * 🌍  I'm based in Jeddah, Saudi Arabia.
 * ✉️  You can contact me at [ibr.s.ahmat@gmail.com](mailto:ibr.s.ahmat@gmail.com)
