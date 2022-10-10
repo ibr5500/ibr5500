@@ -12,32 +12,49 @@ I am passionate about rails development. My coding languages: JavaScript, React,
 * 🤝  I'm open to collaborating on React, and JavaScript projects.
 * ⚡  I'm an athlete (Track, and Marathon), and football (soccer) player.
 
-### Skills
-
-<div align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<h2 align ="left">GitHub Stats</h2>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibr5500&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibr5500&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
-### Socials
+<h2 align="left">Skills</h2>
+<p align="left">
+<div>
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" title="React" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" title="Redux" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+	<img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" />
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby" />
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/180px-Ruby_On_Rails_Logo.svg.png" alt="Rails" title="Rails" />
+    <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
+</div>
+</p>
 
-<p align="left"> <a href="https://www.codepen.io/ibr55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ibr5500/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibr.55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ibrahim-ahmat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ibr.55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ibr_ahmat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-## Status
-<div align="center>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibr5500&show_icons=true&locale=en&layout=compact" alt="Ibrrahim Ahmat" />
-
-   <img align="left" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ibr5500&show_icons=true&locale=en&theme=tokyonight" alt="Ibrrahim Ahmat" />
-   
-  <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibr5500&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ibrrahim Ahmat" />
-   </div>
-
-   <br /><br /><br /><br /><br /><br /><br />
-
+<h2 align="left">Connect with me</h2>
+<p align="left">
+<div>
+	<a href="https://www.linkedin.com/in/ibrahim-ahmat/" target="_blank" rel="noreferrer">
+        <img height="50" src="https://brand.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="LinkedIn" title="LinkedIn" />
+    </a>
+    <a href="https://www.stackoverflow.com/users/ibr.55" target="_blank" rel="noreferrer">
+        <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="StackOverFlow" title="StackOverFlow" />
+    </a>
+    <a href="https://www.codepen.io/ibr55" target="_blank" rel="noreferrer">
+        <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" alt="HTML" title="HTML" />
+    </a>
+    <a href="https://www.twitter.com/ibr_ahmat" target="_blank" rel="noreferrer">
+        <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" title="Twitter" />
+    </a>    
+</div>
+</p>
