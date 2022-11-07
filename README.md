@@ -4,13 +4,14 @@ Hi 👋 My name is Ibrahim Ahmat
 Full Stack developer
 ---------------------------------
 
-I am passionate about rails development. My coding languages: JavaScript, React, ruby, ruby on rails, and python.
+I am passionate about React development. My coding languages: JavaScript, React, Ruby, Node.js, Ruby on Rails, and python.
 
-* 🌍  I'm based in Jeddah, Saudi Arabia.
-* ✉️  You can contact me at [ibr.s.ahmat@gmail.com](mailto:ibr.s.ahmat@gmail.com)
-* 🧠  I'm learning Advance JavaScript
-* 🤝  I'm open to collaborating on React, and JavaScript projects.
-* ⚡  I'm an athlete (Track, and Marathon), and football (soccer) player.
+* 🌍 I'm based in Jeddah, Saudi Arabia.
+* 🤝 I'm open to collaborating on web projects.
+* 💼 I'm Freelancing as a Full Stack developer, "Open for new opportunities".
+* ⚡ I'm a chess player, athlete (Track, and Marathon), and football (soccer) player.
+* ✉️ You can contact me at [ibr.s.ahmat@gmail.com](mailto:ibr.s.ahmat@gmail.com).
+* 👨‍💻 Check my [Portfolio](https://ibr55.netlify.app/)
 
 <h2 align ="left">GitHub Stats</h2>
 <div>
