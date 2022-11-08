@@ -11,7 +11,7 @@ I am passionate about React development. My coding languages: JavaScript, React,
 * 💼 I'm Freelancing as a Full Stack developer, "Open for new opportunities".
 * ⚡ I'm a chess player, athlete (Track, and Marathon), and football (soccer) player.
 * ✉️ You can contact me at [ibr.s.ahmat@gmail.com](mailto:ibr.s.ahmat@gmail.com).
-* 👨‍💻 Check my <a href="https://ibr55.netlify.app/" target="_blank" rel="noreferrer">Portfolio</a>
+* 👨‍💻 Check my [Portfolio](https://ibr55.netlify.app/){:target="_blank" rel="noopener"}.
 
 <h2 align ="left">GitHub Stats</h2>
 <div>
