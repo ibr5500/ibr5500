@@ -16,7 +16,7 @@ I am passionate about React development. My coding languages: JavaScript, React,
 <h2 align ="left">GitHub Stats</h2>
 <div>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibr5500&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibr5500&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibr5500&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
 <h2 align="left">Skills</h2>
