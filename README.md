@@ -1,14 +1,14 @@
 Hi 👋 My name is Ibrahim Ahmat
 ==============================
 
-Full Stack developer
+Software developer
 ---------------------------------
 
-I am passionate about React development. My coding languages: JavaScript, React, Ruby, Node.js, Ruby on Rails, and python.
+I am passionate about React development. My coding languages: JavaScript, TypeScript, React, Ruby, Node.js, Ruby on Rails, and python.
 
 * 🌍 I'm based in Jeddah, Saudi Arabia.
 * 🤝 I'm open to collaborating on web projects.
-* 💼 I'm Freelancing as a Full Stack developer, "Open for new opportunities".
+* 💼 I'm Web3 developer intern, at [DeCellar](https://github.com/DeCellar), "Open for new opportunities".
 * ⚡ I'm a chess player, athlete (Track, and Marathon), and football (soccer) player.
 * ✉️ You can contact me at [ibr.s.ahmat@gmail.com](mailto:ibr.s.ahmat@gmail.com).
 * 👨‍💻 Check my [Portfolio](https://ibr55.netlify.app/).
