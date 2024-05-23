@@ -1,15 +1,15 @@
 Hi 👋 My name is Ibrahim Ahmat
 ==============================
 
-Software developer
+Software Developer
 ---------------------------------
 
-I am passionate about React development. My coding languages: JavaScript, TypeScript, React, Ruby, Node.js, Ruby on Rails, and python.
+Software development is my passion, and I thrive in using a variety of coding languages such as JavaScript, TypeScript, React, Ruby, Node.js, Ruby on Rails, C#, and Python.
 
 * 🌍 I'm based in Jeddah, Saudi Arabia.
-* 🤝 I'm open to collaborating on web projects.
+* 🤝 I'm open to collaborating.
 * 💼 I'm open to new opportunities.
-* ⚡ I'm a chess player, athlete (Track, and Marathon), and football (soccer) player.
+* ⚡ I'm a chess player, athlete (Track, and Marathon), and football player.
 * ✉️ You can contact me at [ibr.s.ahmat@gmail.com](mailto:ibr.s.ahmat@gmail.com).
 * 👨‍💻 Check my [Portfolio](https://ibr55.netlify.app/).
 
